@@ -9,5 +9,5 @@ pip install sys
 pip install pyngrok
 pip install socket
 clear
-python3 CipherX.py
+python3 index.py
 # 81 x 25
